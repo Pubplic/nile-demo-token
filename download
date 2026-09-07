@@ -1,0 +1,9 @@
+.env
+.env.*
+*.key
+*.pem
+*.secret
+private-key.txt
+mnemonic.txt
+node_modules/
+.DS_Store
